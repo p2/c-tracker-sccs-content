@@ -15,6 +15,6 @@ Ressources
 ----------
 
 - [Hépatite C Plateforme Suisse](http://www.hepatitis-schweiz.ch/fr/)
-- [Hépatite Brochure](./Hepatitis-Flyer-2016.pdf)
+- [L’ABC de l’Hépatite](./Hepatitis-Flyer-2016.pdf)
 - [WHO Hepatitis C Factsheet](http://www.who.int/mediacentre/factsheets/fs164/en/0)
 - [CDC Info Page](http://www.cdc.gov/hepatitis/hcv/)
