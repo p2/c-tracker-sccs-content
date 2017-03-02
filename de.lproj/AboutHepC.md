@@ -15,6 +15,8 @@ Deren hohe Preise haben bisher aber verhindert, dass Jedermann und -frau von die
 Mehr Informationen
 ------------------
 
+- [Hepatitis Info Plattform Schweiz](http://www.hepatitis-schweiz.ch/de/)
+- [Hepatitis Flyer](./Hepatitis-Flyer-2016.pdf)
 - [Klinik für Gastroenterologie am USZ](http://www.gastroenterologie.usz.ch/forschung/hepatologie/seiten/unterseite-3.aspx)
 - [WHO Hepatitis C Factsheet [en]](http://www.who.int/mediacentre/factsheets/fs164/en/0)
 - [CDC Info Page [en]](http://www.cdc.gov/hepatitis/hcv/)
