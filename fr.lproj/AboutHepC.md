@@ -1,5 +1,5 @@
-Virus de l’Hépatite C
-=====================
+L’Hépatite C
+============
 
 Le virus de l'hépatite C (VHC), anciennement connu sous le nom de virus de l'hépatite «non-A non B», a été identifié en 1989.
 Ce virus transmissible par le sang est endémique dans le monde entier, avec environ 170 millions de personnes infectées, soit environ 3% de la population mondiale.

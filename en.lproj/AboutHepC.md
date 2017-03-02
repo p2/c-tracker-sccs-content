@@ -1,4 +1,4 @@
-Hepatitis C Virus
+About Hepatitis C
 =================
 
 The hepatitis C virus (HCV), formerly known as ‘non-A non-B’ hepatitis virus, was identified in 1989.

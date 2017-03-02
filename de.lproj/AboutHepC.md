@@ -1,5 +1,5 @@
-Das Hepatitis C Virus
-=====================
+Hepatitis C
+===========
 
 Das Hepatitis C Virus wurde im Jahr 1989 entdeckt.
 Die chronische Virusinfektion betrifft ca. 80'000 Personen in der Schweiz.
