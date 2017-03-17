@@ -7,15 +7,15 @@ Das UniversitätsSpital Zürich (nachfolgend: USZ) stellt interessierten Patient
 
 Zweck der C&nbsp;Tracker App ist es, eine wissenschaftliche, medizinische Studie zu begleiten (nachfolgend: Studie).
 Insbesondere möchte die Studie herauszufinden, ob die automatisch vom Endgerät des Nutzers aufgezeichneten Aktivitätsdaten, wie gezählte Schritte und Stockwerke, so zuverlässig sind wie die jeweiligen Antworten in Fragebögen zur eigenen Aktivität.
-Zusätzlich soll in Erfahrung gebracht werden, wie sich die Aktivität von Nutzern mit Hepatitis C über die Zeit verändert.
+Zusätzlich soll in Erfahrung gebracht werden, wie sich die Aktivität von Nutzern mit Hepatitis&nbsp;C über die Zeit verändert.
 
-Die Studie wird geleitet von der Klinik für Gastroenterologie und Hepatologie am USZ und wird an weiteren, mit der Swiss Hepatitis C Cohort Study (SCCS) assoziierten Spitälern durchgeführt.
+Die Studie wird geleitet von der Klinik für Gastroenterologie und Hepatologie am USZ und wird an weiteren, mit der Swiss Hepatitis&nbsp;C Cohort Study (SCCS) assoziierten Spitälern durchgeführt.
 
 Die vorliegenden Nutzungsbestimmungen regeln das Vertragsverhältnis zwischen dem USZ und den Nutzern in Bezug auf die Nutzung der C&nbsp;Tracker App.
 
 ## Vertragsinhalt
 
-**Durch die Nutzung der C&nbsp;Tracker App erklären sich die Nutzer mit den vorliegenden Nutzungsbestimmungen vorbehaltlos einverstanden.**
+**Mit der Unterzeichnung des Studienkonsents und durch die Nutzung der C&nbsp;Tracker App erklären sich die Nutzer mit den vorliegenden Nutzungsbestimmungen vorbehaltlos einverstanden.**
 
 Die C&nbsp;Tracker App hilft Forschungserkenntnisse zur effizienten Behandlung von Hepatits C im Dienste der Nutzer zu gewinnen.
 Die ärztliche Begleitung bzw. Beratung, Behandlung oder Untersuchung wird dadurch nicht ersetzt.
@@ -51,7 +51,7 @@ Ferner lehnt das USZ, soweit gesetzlich zulässig, jegliche Haftung für allfäl
 
 ## Datenschutz
 
-**Durch die Nutzung des C&nbsp;Tracker Apps erklären sich die Nutzer auch mit der separaten Datenschutzerklärung einverstanden.**
+**Mit der Unterzeichnung des Studienkonsents und durch die Nutzung des C&nbsp;Tracker Apps erklären sich die Nutzer auch mit der separaten Datenschutzerklärung einverstanden.**
 **Sie bilden Bestandteil der vorliegenden Nutzungsbestimmungen.**
 
 ## Schlussbestimmungen

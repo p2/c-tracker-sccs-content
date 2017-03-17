@@ -9,12 +9,12 @@ Die vorliegende Datenschutzerklärung stellt einen Bestandteil der Nutzungsbesti
 
 ## Datenbearbeitung / Einwilligung
 
-Im Rahmen der Durchführung der wissenschaftlichen, medizinischen Studie unter Einbezug der C&nbsp;Tracker App zur Gewinnung von Forschungserkenntnissen für die effiziente Behandlung von Hepatitis C müssen Personendaten der teilnehmenden Patienten und Patientinnen (nachfolgend: Nutzer) erhoben und bearbeitet werden.
+Im Rahmen der Durchführung der wissenschaftlichen, medizinischen Studie unter Einbezug der C&nbsp;Tracker App zur Gewinnung von Forschungserkenntnissen für die effiziente Behandlung von Hepatitis&nbsp;C müssen Personendaten der teilnehmenden Patienten und Patientinnen (nachfolgend: Nutzer) erhoben und bearbeitet werden.
 
-Mit der Unterzeichnung des Studientkonsents und durch die Nutzung der C&nbsp;Tracker App erklären sich die Nutzer mit der vorliegenden Datenschutzerklärung einverstanden.
-Sie willigen insbesondere ein, dass das USZ sowie die weiteren mit der Swiss Hepatitis C Cohort Study (SCCS) assoziierten Spitäler bzw. die dortigen Studienmitarbeiter ihre Personendaten zum oben beschriebenen Zweck erheben, speichern, bearbeiten und aufbewahren dürfen.
+Mit der Unterzeichnung des Studienkonsents und durch die Nutzung der C&nbsp;Tracker App erklären sich die Nutzer mit der vorliegenden Datenschutzerklärung einverstanden.
+Sie willigen insbesondere ein, dass das USZ sowie die weiteren mit der Swiss Hepatitis&nbsp;C Cohort Study (SCCS) assoziierten Spitäler bzw. die dortigen Studienmitarbeiter ihre Personendaten zum oben beschriebenen Zweck erheben, speichern, bearbeiten und aufbewahren dürfen.
 
-Die Personendaten werden de-identifiziert, so dass für die Studienmitarbeiter keine Rückschlüsse auf die Identität der Personen möglich ist und die Analyse ausschliesslich an diesen faktisch anonymisierten Personendaten erfolgt.
+Die Personendaten werden de-identifiziert, so dass für die Studienmitarbeiter keine Rückschlüsse auf die Identität der Personen möglich ist und die Analyse ausschliesslich an den so anonymisierten Personendaten erfolgt.
 Eine Rückverfolgung ist nur mit dem Schlüssel möglich, über den der behandelnde Arzt / die behandelnde Ärztin verfügt.
 Sie erfolgt auch nur bei einem allfälligen Erkenntnisgewinn, der dem Nutzer dient.
 Dieses Vorgehen entspricht auch den Bestimmungen des Humanforschungsgesetzes.
