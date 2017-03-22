@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 #
-#  Uses HTML data from _source and renders them, using Jinja2, into _target
+#  Can render Markdown and HTML files using a given template to the filesystem
 #
-#  Requirements:
-#  - jinja2
-#  - markdown
+#  Requirements see "build_requirements.txt"
 
 import io
 import glob
