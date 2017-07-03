@@ -14,10 +14,19 @@ Im Rahmen der Durchführung der wissenschaftlichen, medizinischen Studie unter E
 Mit der Unterzeichnung des Studienkonsents und durch die Nutzung der C&nbsp;Tracker App erklären sich die Nutzer mit der vorliegenden Datenschutzerklärung einverstanden.
 Sie willigen insbesondere ein, dass das USZ sowie die weiteren mit der Swiss Hepatitis&nbsp;C Cohort Study (SCCS) assoziierten Spitäler bzw. die dortigen Studienmitarbeiter ihre Personendaten zum oben beschriebenen Zweck erheben, speichern, bearbeiten und aufbewahren dürfen.
 
-Die Personendaten werden de-identifiziert, so dass für die Studienmitarbeiter keine Rückschlüsse auf die Identität der Personen möglich ist und die Analyse ausschliesslich an den so anonymisierten Personendaten erfolgt.
-Eine Rückverfolgung ist nur mit dem Schlüssel möglich, über den der behandelnde Arzt / die behandelnde Ärztin verfügt.
+Personendaten werden insbesondere durch die Geräteeingaben der Nutzer, aber auch über die Apple Health App erhoben.
+Die Personendaten der Nutzer werden in der Folge gesammelt und verschlüsselt auf einer geschützten Datenbank in der Schweiz gespeichert.
+Der Schlüssel zu den Personendaten wird auf einer separaten, geschützten Datenbank in der Schweiz abgespeichert, so dass für die Studienmitarbeiter keine Rückschlüsse auf die Identität der Personen möglich sind und die Forschung ausschliesslich an den verschlüsselten Personendaten erfolgt.
+Eine Rückverfolgung ist nur mit dem Schlüssel möglich, zu welchem nur die für die Studie verantwortliche Prüfperson Zugang hat.
 Sie erfolgt auch nur bei einem allfälligen Erkenntnisgewinn, der dem Nutzer dient.
+Die Daten werden nach Abschluss der Studie gelöscht.
+Sofern es sich um Patientendaten handelt, werden diese nach den gesetzlichen Vorgaben dreissig Jahre ab der letzten Behandlung des betreffenden Nutzers am USZ gespeichert.
+Werden die Daten nach Ablauf der gesetzlichen Aufbewahrungsfrist nicht archiviert, werden sie gelöscht.
 Dieses Vorgehen entspricht auch den Bestimmungen des Humanforschungsgesetzes.
+
+Nutzer sind sich bewusst, dass sie die C&nbsp;Tracker App aus dem App-Store von Apple herunterladen und installieren.
+Dieses Verhältnis wird durch die Nutzungsbedingungen und Datenschutzerklärung von Apple geregelt.
+Das USZ hat hierauf keinen Einfluss. 
 
 **Die ärztliche Schweigepflicht sowie das Amtsgeheimnis bleiben stets gewahrt.**
 
@@ -41,4 +50,4 @@ Schriftliche Anfragen sind zu richten an: UniversitätsSpital Zürich, Rechtsdie
 
 Die vorliegende Einwilligung zur Verwendung ihrer Personendaten können Nutzer jederzeit widerrufen.
 Sie können dies in ihrem Profil unter «Studie verlassen» und durch das Löschen der App machen.
-Bereits übermittelte Personendaten bleiben hingegen im Rahmen der Studie anonymisiert gespeichert.
+Bereits übermittelte Personendaten bleiben hingegen im Rahmen der Studie verschlüsselt gespeichert.

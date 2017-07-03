@@ -2,7 +2,7 @@ Hepatitis C
 ===========
 
 Das Hepatitis C Virus wurde im Jahr 1989 entdeckt.
-Die chronische Virusinfektion betrifft ca. 80'000 Personen in der Schweiz.
+Die chronische Virusinfektion betrifft ca. 60'000 Personen in der Schweiz.
 Die Infektion kann über Jahrzehnte zur Leberzirrhose und zum Leberzellkrebs führen.
 In Europa ist die chronische Hepatitis C die häufigste Indikation für eine Lebertransplantation.
 
