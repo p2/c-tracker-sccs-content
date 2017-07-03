@@ -9,6 +9,7 @@ Long-term morbidity associated with persistent HCV infection includes the develo
 The majority of infected persons might not be aware of their infection because they are not clinically ill.
 
 There is no vaccine for hepatitis C.
+The best way to prevent hepatitis C is by avoiding behaviors that can spread the disease, especially injecting drugs.
 Fortunately, highly effective, very well tolerated oral medications are available that, effectively, can cure hepatitis C, but their high cost has limited their broad application.
 
 Online Resources
