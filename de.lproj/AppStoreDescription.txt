@@ -1,7 +1,28 @@
-Titel
-=====
+C Tracker
+=========
 
-bla
+C Tracker,hepatitis c,hepatitis,sccs,hepatitis c kohorte,kohorte,studie,trial,hcv,researchkit,virus
 
-Das USZ steht jeden Tag allen Menschen offen und bietet medizinische Grundversorgung und Spitzenmedizin an zentraler Lage in Zürich.
-Wir nutzen unseren universitären Wissensvorsprung, um verschiedenste Gesundheitsprobleme zu lösen: nah am Menschen, hochspezialisiert und auf dem neuesten Stand der Forschung.
+---
+
+Eine Hepatitis C Studie des Universitätsspital Zürich und der Swiss Hepatitis C Cohort Study.
+
+---
+
+Willkommen bei C Tracker, der Studien-App des Universitätsspital Zürich (USZ)  in Koordination mit der Swiss Hepatitis C Cohort Study (SCCS). Mit dieser App können Personen mit Hepatitis C an unserer Studie teilnehmen, Details dazu entnehmen Sie bitte dem Text weiter unten. Die App arbeitet einerseits mit Fragebögen, andererseits mit automatisch aufgezeichneten Aktivitätsdaten als auch von HealthKit erfassten Daten, wie zum Beispiel Körpergewicht. Diese Daten werden an die beteiligten Forschenden übermittelt mit der Absicht, wertvolle Hinweise auf den Zusammenhang zwischen Krankheitsverlauf und Aktivität zu erfahren.
+
+## Über diese Studie
+
+Für diese Studie wollen Forscher der Swiss Hepatitis C Cohort Study (SCCS; http://www.swisshcv.org) herausfinden, ob die automatisch vom Smartphone aufgezeichneten Aktivitätsdaten, wie gezählte Schritte und Stockwerke, so zuverlässig sind wie die jeweiligen Antworten in Fragebögen zur eigenen Aktivität. Zusätzlich möchten wir erfahren, wie sich die Aktivität von Patienten mit Hepatitis C über die Zeit verändert. Die Studie wird geleitet von der Klinik für Gastroenterologie und Hepatologie am Universitätsspital Zürich (http://www.gastroenterologie.usz.ch) und wird an weiteren, mit der SCCS assoziierten Spitälern durchgeführt.
+
+## Wie funktioniert die Studie?
+
+Sollten Sie sich zu einer Teilnahme entscheiden, werden wir Sie bitten unsere Studien-App zu installieren. Darauf werden Sie mit Hilfe einer unserer Studien-Koordinator(inn)en bei der Studie angemeldet und können den ersten Fragebogen auszufüllen.
+
+Von nun an werden Sie ein Jahr lang jeden Monat eine Erinnerung erhalten, erneut einen Fragebogen auszufüllen. Dies geschieht via App, sie können deshalb den Fragebogen jederzeit und ortsunabhängig ausfüllen und es fallen keine zusätzlichen Klinikbesuche an. Diese Fragebögen werden etwa 10 Minuten Ihrer Zeit beanspruchen. Daneben steht es Ihnen frei, die übrigen Funktionen der App zu verwenden.
+
+## Teilnahme
+
+Es können grundsätzlich alle Personen teilnehmen, welche aktuell oder in der Vergangenheit an einer chronischen Hepatitis C Infektion leiden und in der Schweiz wohnen. Ausserdem müssen sie mindestens 18 Jahre alt sein, Deutsch oder Französisch verstehen und ein kompatibles iPhone besitzen. Bei Interesse melden Sie sich bitte beim nächsten SCCS Zentrum in der Schweiz (http://www.swisshcv.org/).
+
+Das USZ steht jeden Tag allen Menschen offen und bietet medizinische Grundversorgung und Spitzenmedizin an zentraler Lage in Zürich. Wir nutzen unseren universitären Wissensvorsprung, um verschiedenste Gesundheitsprobleme zu lösen: nah am Menschen, hochspezialisiert und auf dem neuesten Stand der Forschung.

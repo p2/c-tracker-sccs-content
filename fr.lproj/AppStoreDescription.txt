@@ -1,0 +1,28 @@
+C Tracker
+=========
+
+C Tracker,cohorte de l'hépatite C,hépatite c,hépatite,sccs,usz,étude,hcv,researchkit
+
+---
+
+Une étude sur l'hépatite C de l'hôpital universitaire de Zurich et le cohorte de l'hépatite C suisse.
+
+---
+
+Bienvenue à C Tracker, l'application d'étude de l'hôpital universitaire de Zurich (USZ) en coordination avec le cohorte de l'hépatite C suisse (SCCS). Les personnes atteintes d'hépatite C peuvent participer à notre étude avec cette application. Pour plus de détails s'il vous plaît se référer au texte ci-dessous. L'application fonctionne d'une part avec des enquêtes, d'autre part avec des données d'activité enregistrées automatiquement ainsi que des données collectées par HealthKit, telles que le poids corporel. Ces données sont transmises aux chercheurs dans le but d'obtenir des informations précieuses sur la relation entre la progression de la maladie et l'activité.
+
+## À propos de cette étude
+
+Pour cette étude, des chercheurs de cohorte de l'hépatite C suisse (SCCS; http://www.swisshcv.org) demandent aux personnes atteintes d'hépatite d'utiliser leurs smartphones pour signaler des informations sur eux-mêmes susceptibles d'améliorer la façon dont l'hépatite C est traitée. Cette étude est coordonnée par le Clinique de Gastro-entérologie et d'Hépatologie (http://www.gastroenterologie.usz.ch) à l'hôpital universitaire de Zürich et enregistre les participants à d'autres hôpitaux associés à la SCCS.
+
+## Fonctionnement de l'étude
+
+Si vous décidez de participer, nous vous demanderons d'installer notre application d'étude sur votre iPhone, de vous enregistrer avec l'aide de notre coordinateur d'étude et de remplir votre premier sondage.
+
+Désormais, vous recevrez un rappel chaque mois durant une année pour remplir un sondage via l'application. Vous pouvez compléter les sondages dans l'application – vous êtes libre de le faire à votre loisir, il n'est pas nécessaire de visiter la clinique à nouveau. Ces enquêtes prendront environ 10 minutes de votre temps. En dehors de cela vous êtes libre d'utiliser les autres fonctionnalités de l'application que vous s'il vous plaît.
+
+## Qui peut participer?
+
+La participation est ouverte à toutes les personnes résident en Suisse qui souffrent actuellement ou dans le passé d'une infection chronique de l'hépatite C. De plus, ils doivent être âgés d'au moins 18 ans, comprendre le français (ou l'allemand) et posséder un iPhone compatible. Si vous êtes intéressé, s'il vous plaît contacter le centre le plus proche d'SCCS (http://www.swisshcv.org/).
+
+L'USZ est ouverte à tous les jours et offre des soins médicaux de base et des médicaments de pointe dans un lieu central à Zurich. Nous utilisons notre avantage de connaissances universitaires pour résoudre un large éventail de problèmes de santé: proche des gens, hautement spécialisé et de pointe dans la recherche.

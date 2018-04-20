@@ -18,5 +18,5 @@ Mehr Informationen
 - [Hepatitis Info Plattform Schweiz](http://www.hepatitis-schweiz.ch/de/)
 - [Das Hepatitis ABC](./Hepatitis-Flyer-2016.pdf)
 - [Klinik für Gastroenterologie am USZ](http://www.gastroenterologie.usz.ch/forschung/hepatologie/seiten/unterseite-3.aspx)
-- [WHO Hepatitis C Factsheet [en]](http://www.who.int/mediacentre/factsheets/fs164/en/0)
+- [WHO Hepatitis C Factsheet [en]](http://www.who.int/mediacentre/factsheets/fs164/en/)
 - [CDC Info Page [en]](http://www.cdc.gov/hepatitis/hcv/)

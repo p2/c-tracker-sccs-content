@@ -5,4 +5,4 @@ Pour cette étude, des chercheurs [de cohorte de l'hépatite C suisse (SCCS)](ht
 
 Cette étude est coordonnée par le [Clinique de Gastro-entérologie et d'Hépatologie](http://www.gastroenterologie.usz.ch) à l'hôpital universitaire de Zürich et enregistre les participants à d'autres hôpitaux associés à la SCCS.
 
-Si vous êtes intéressé, s'il vous plaît contacter [le centre le plus proche d'SCCS](http://www.swisshcv.org/clinical-centers.htm).
+Si vous êtes intéressé, s'il vous plaît contacter [le centre le plus proche d'SCCS](http://www.swisshcv.org/).

@@ -6,4 +6,4 @@ Zusätzlich möchten wir erfahren, wie sich die Aktivität von _Patienten mit He
 
 Die Studie wird geleitet von der [Klinik für Gastroenterologie und Hepatologie](http://www.gastroenterologie.usz.ch) am Universitätsspital Zürich und wird an weiteren, mit der SCCS assoziierten Spitälern durchgeführt.
 
-Bei Interesse an der Studie oder der SCCS melden Sie sich bitte [beim nächsten SCCS Zentrum](http://www.swisshcv.org/clinical-centers.htm) in der Schweiz.
+Bei Interesse an der Studie oder der SCCS melden Sie sich bitte [beim nächsten SCCS Zentrum](http://www.swisshcv.org/) in der Schweiz.

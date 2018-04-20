@@ -7,4 +7,4 @@ Ausserdem müssen sie mindestens _18 Jahre alt_ sein, _Deutsch_ oder _Französis
 Das iPhone 5S und neuer haben spezielle Bewegungs-Sensoren, welche ihre körperliche Aktivität aufzeichnen kann, ohne dabei Batterie zu vergeuden.
 Um diese Aktivitätsdaten so nützlich wie möglich zu machen sollten Sie das iPhone so oft wie möglich auf sich tragen, zum Beispiel in der Tasche oder am Gürtel.
 
-Bei Interesse melden Sie sich bitte [beim nächsten SCCS Zentrum](http://www.swisshcv.org/clinical-centers.htm) in der Schweiz.
+Bei Interesse melden Sie sich bitte [beim nächsten SCCS Zentrum](http://www.swisshcv.org/) in der Schweiz.
