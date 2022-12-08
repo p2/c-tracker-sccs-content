@@ -1,7 +1,7 @@
 appdirs==1.4.3
 Jinja2==2.8
 Markdown==2.6.2
-certifi==2018.4.16
+certifi==2022.12.7
 chardet==3.0.4
 idna==2.6
 MarkupSafe==0.23
